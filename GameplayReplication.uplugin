@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Gameplay Replication",
+	"Description": "A generalized plugin designed to optimize replication management in multiplayer games.",
+	"Category": "Networking",
+	"CreatedBy": "MajorT",
+	"CreatedByURL": "https://www.github.com/MajorTomAW",
+	"DocsURL": "https://www.github.com/MajorTomAW",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayReplication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
